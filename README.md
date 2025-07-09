@@ -1,6 +1,6 @@
-Computer Networks-Home Switch Automation using RAW Sockets
+Computer Networks-Home Automation Switch using RAW Sockets
 
-This project is a home automation switch built using raw sockets with a simple GUI for both server and client sides.It allows multiple clients to connect to a single server
+This project is a home automation switch built using raw sockets with the help of GUI for both server and client sides.It allows multiple clients to connect to a single server
 and control household appliances. Any changes made by the client side are visible in the server side and vice versa.This ensures synchronized control and live updates across a 
 system. The server runs a multi-threaded architecture system which allows multiple users to control appliances and the administrator can start or stop the server and manually control appliances from the server window itself.
 
